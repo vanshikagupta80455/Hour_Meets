@@ -9,5 +9,6 @@ const nextConfig = {
     ],
   },
 };
+// e.g. module.exports = nextConfig
 
 export default nextConfig;
